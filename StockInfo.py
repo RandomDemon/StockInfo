@@ -1,5 +1,5 @@
 #  Stock Info 
-#  Created by Collin Aguiar and Cameron Hagan
+#  Created by Collin Aguiar
 #=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~=~
 import yfinance as yf
 from time import sleep as wait
